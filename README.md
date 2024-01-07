@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack Developer from Ankara,Turkiye</h3>
   
 
-- 🌱 I’m currently learning <b>.NET Core</b>  
+- 🌱 I’m currently learning <b>ASP.NET Core</b>  
   
 
 <br/>  
